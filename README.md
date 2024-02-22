@@ -4,8 +4,8 @@ I'm a self-taught learner based in South Korea, originally from Morocco. My curr
 
 ## 🌱 What I'm Learning
 
-- Currently learning **JavaScript**
-- Previously learned **HTML** and **CSS**
+- Currently learning **React**
+- Previously learned **HTML** and **CSS** and **Javascript**
 
 
 ## 🔗 Connect with Me
@@ -16,7 +16,6 @@ I'm a self-taught learner based in South Korea, originally from Morocco. My curr
 ## 🌟 Interests
 
 Apart from coding, I'm also passionate about:
-- Exploring new technologies
 - Traveling
 - Watching Movies/Series/Documenatries
 - Reading Books
