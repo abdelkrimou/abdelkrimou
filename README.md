@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software tester with a strong fou
 ### Testing Expertise
   - Manual Testing: Creating and executing test cases, reporting bugs, and collaborating with teams to ensure high-quality releases.
   - API Testing: Experienced with tools like Postman and API automation scripting.
-  -Test Automation: Hands-on with:
+  - Test Automation: Hands-on with:
      - Cypress
      - Selenium IDE
      - Katalon Recorder
@@ -15,15 +15,18 @@ Welcome to my GitHub profile! I'm a passionate software tester with a strong fou
   - PSM-1 (Professional Scrum Master)
   - ISTQB (International Software Testing Qualifications Board) 
 ### Development Knowledge
- While my focus is now on software testing, I have a solid background in frontend development using technologies like React, JavaScript, and Next.js, which gives me a unique perspective on testing.
+ While my focus is now on software testing, I have a solid background in frontend development using technologies like JavaScript, React, and Next.js, which gives me a unique perspective on testing.
 
 ## 🚀 Goals
    - Deepen expertise in test automation frameworks.
    - Build robust and reusable test suites for large-scale applications.
    - Expand knowledge of CI/CD testing pipelines and performance testing tools.
+     
 ## 📂 Featured Repositories
-
-
+  - [Click Ai](https://click-ai.vercel.app/)
+  - [Promptology](https://promptology.vercel.app/)
+  - [Moroccan Horizons](https://moroccan-horizons-966q.vercel.app/)
+  
 ## 📫 Connect with Me
   - LinkedIn: https://www.linkedin.com/in/abdelkrim-ouaaddi/
   - Email: abdelkrimouaaddi@gmail.com
