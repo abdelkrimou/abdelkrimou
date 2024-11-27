@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Abdelkrim Ouaaddi
-## 🌟 Software Tester | Automation Enthusiast | PSM-1 & ISTQB Certified 🌟
-
+### 🌟 Software Tester | Automation Enthusiast | PSM-1 & ISTQB Certified 🌟
 Welcome to my GitHub profile! I'm a passionate software tester with a strong foundation in manual testing, API testing, and test automation frameworks. With my experience in tools like Cypress, Selenium IDE, and Katalon Recorder, I aim to ensure software quality and reliability through meticulous testing practices.
 
 ## 🛠️ Skills & Tools
