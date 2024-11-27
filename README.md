@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software tester with a strong fou
 
 
 ## 📫 Connect with Me
-  - LinkedIn: [Abdelkrim Ouaaddi] (https://www.linkedin.com/in/abdelkrim-ouaaddi/)
+  - LinkedIn: https://www.linkedin.com/in/abdelkrim-ouaaddi/
   - Email: abdelkrimouaaddi@gmail.com
 
 
