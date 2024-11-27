@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Abdelkrim Ouaaddi
-🌟 Software Tester | Automation Enthusiast | PSM-1 & ISTQB Certified 🌟
+## 🌟 Software Tester | Automation Enthusiast | PSM-1 & ISTQB Certified 🌟
 
 Welcome to my GitHub profile! I'm a passionate software tester with a strong foundation in manual testing, API testing, and test automation frameworks. With my experience in tools like Cypress, Selenium IDE, and Katalon Recorder, I aim to ensure software quality and reliability through meticulous testing practices.
 
 ## 🛠️ Skills & Tools
+
 ### Testing Expertise
   - Manual Testing: Creating and executing test cases, reporting bugs, and collaborating with teams to ensure high-quality releases.
   - API Testing: Experienced with tools like Postman and API automation scripting.
@@ -11,9 +12,11 @@ Welcome to my GitHub profile! I'm a passionate software tester with a strong fou
      - Cypress
      - Selenium IDE
      - Katalon Recorder
+       
 ### Certifications
   - PSM-1 (Professional Scrum Master)
-  - ISTQB (International Software Testing Qualifications Board) 
+  - ISTQB (International Software Testing Qualifications Board)
+    
 ### Development Knowledge
  While my focus is now on software testing, I have a solid background in frontend development using technologies like JavaScript, React, and Next.js, which gives me a unique perspective on testing.
 
@@ -22,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software tester with a strong fou
    - Build robust and reusable test suites for large-scale applications.
    - Expand knowledge of CI/CD testing pipelines and performance testing tools.
      
-## 📂 Featured Repositories
+## 📂 Featured Projects
   - [Click Ai](https://click-ai.vercel.app/)
   - [Promptology](https://promptology.vercel.app/)
   - [Moroccan Horizons](https://moroccan-horizons-966q.vercel.app/)
